@@ -10,7 +10,7 @@
 - [python, javascript]
 
 ## Current Projects
-- [OUL](www. oul.co.ke) — it is a business website that offers investing opportunity for people who are looking forward to venture into the world of investing 
+- [OUL](www.oul.co.ke) — it is a business website that offers investing opportunity for people who are looking forward to venture into the world of investing 
 
 ## How to Reach Me
 - Email: [makchege10@gmail.com]
