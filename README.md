@@ -12,6 +12,10 @@
 ## 📞How to Reach Me
 - 📧Email: [makchege10@gmail.com]
 
+## My projects
+- Weather app
+- To-Do-List
+
 - ## 🧑‍💻My skill set
 - React 
 - ![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7dF1E)
