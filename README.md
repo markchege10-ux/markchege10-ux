@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner](http://googleusercontent.com/image_generation_content/230)
 
 # Hi, I'm mark👩‍💻
 **Junior developer . System thinker . Medical student**
