@@ -1,9 +1,9 @@
 # Hi, I'm mark👩‍💻
 
 ## About Me🧑‍🚀
-- ☘I'm currently learning computer programming at iyf.
-- 👯‍♂️I'm interested in [coding and data analytics.
-- 🍀I'm looking to collaborate on website development and ai creation.
+- ☘I'm currently learning Artificial intelligence at iyf.
+- 👯‍♂️I'm interested in coding and data analytics AI and machine learning.
+- 🍀I'm looking to collaborate on website development and AI creation and to build AI systems.
 
 ## 🏋️‍♂️Skills I'm Building
 - 🥇Git and GitHub.
