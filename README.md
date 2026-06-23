@@ -65,7 +65,7 @@ A production-ready productivity app designed to manage tasks smoothly with persi
 <div align="center">
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=markchege10-ux&show_icons=true&theme=radical&rank_icon=github" alt="Mark's GitHub Stats" height="190px" />
-    <img src="https://github-streak-stats.demolab.com?user=markchege10-ux&theme=radical" alt="Mark's GitHub Streak" height="190px" />
+    <img src="https://github-streak-stats.demolab.com?user=markchege10-ux&theme=radical" alt
   </p>
 </div>
 
